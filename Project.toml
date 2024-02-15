@@ -3,7 +3,13 @@ uuid = "412346db-de1d-411a-bb81-66d71c3bf844"
 authors = ["Seth Axen <seth@sethaxen.com> and contributors"]
 version = "0.1.0-DEV"
 
+[deps]
+L_BFGS_B_jll = "81d17ec3-03a1-5e46-b53e-bddc35a13473"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+
 [compat]
+L_BFGS_B_jll = "3.0.1"
+Optim = "1"
 julia = "1"
 
 [extras]
