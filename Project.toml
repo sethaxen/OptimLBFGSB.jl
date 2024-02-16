@@ -5,7 +5,6 @@ version = "0.1.0-DEV"
 
 [deps]
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
-LBFGSB = "5be7bae1-8223-5378-bac3-9e7378a2f6e6"
 L_BFGS_B_jll = "81d17ec3-03a1-5e46-b53e-bddc35a13473"
 NLSolversBase = "d41bc354-129a-5804-8e4c-c37616107c6c"
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
